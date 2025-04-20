@@ -1,1 +1,1 @@
-# attendance
+# face_recognition_project
